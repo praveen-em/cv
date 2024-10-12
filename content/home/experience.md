@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Designing, building, and delivering technology solutions at enterprise scale, with a keen focus on enhancing the overall testing/development experience within the organization.
-  * Contributing to opensource projects, such as [this issue](https://github.com/pact-foundation/pact-jvm/issues/1562) and the associated [pull request](https://github.com/pact-foundation/pact-jvm/pull/1565) that fixes the issue.
+  * Contributing to opensource projects, such as [this issue](https://github.com/pact-foundation/pact-jvm/issues/1562) and the associated [pull request](https://github.com/pact-foundation/pact-jvm/pull/1565) that fixes the issue. Building an [open source plugin](https://github.com/praveen-em/pact-avro-plugin) in go. 
   * Serving as a subject matter expert and technology leader in one or more focus areas, providing thought leadership, technical guidance, and direction to engineering teams.
   * Establishing standards and best practices, organizational-level strategies, and actively contributing to the engineering community as an advocate of quality-focused delivery in a CI/CD-friendly manner.
   * Working in the following technology stack.
